@@ -1,3 +1,3 @@
 # 我的学术主页
 
-**My howepage:** http://hunterluoyi.com/
+**My howepage:** https://hunterluoyi.github.io/
